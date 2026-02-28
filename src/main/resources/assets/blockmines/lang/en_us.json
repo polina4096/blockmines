@@ -1,0 +1,7 @@
+{
+  "block.blockmines.claymore_mine": "Claymore Mine",
+  "item.blockmines.claymore_mine": "Claymore Mine",
+  "item.blockmines.safety_scissors": "Safety Scissors",
+  "enchantment.blockmines.defusal": "Defusal",
+  "itemGroup.blockmines": "Block Mines"
+}

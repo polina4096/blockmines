@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "blockmines",
+	"version": "${version}",
+	"name": "Block Mines",
+	"description": "Minecraft mod which adds explosive mines to your game.",
+	"authors": [
+		"polina4096"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/blockmines/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			{
+				"value": "me.transmute.mem.std.Blockmines",
+				"adapter": "kotlin"
+			}
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*",
+		"fabric-language-kotlin": "*"
+	}
+}

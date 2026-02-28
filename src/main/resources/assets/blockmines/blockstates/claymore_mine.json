@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,waterlogged=false": { "model": "blockmines:block/claymore_mine" },
+    "facing=north,waterlogged=true":  { "model": "blockmines:block/claymore_mine" },
+    "facing=south,waterlogged=false": { "model": "blockmines:block/claymore_mine", "y": 180 },
+    "facing=south,waterlogged=true":  { "model": "blockmines:block/claymore_mine", "y": 180 },
+    "facing=east,waterlogged=false":  { "model": "blockmines:block/claymore_mine", "y": 90 },
+    "facing=east,waterlogged=true":   { "model": "blockmines:block/claymore_mine", "y": 90 },
+    "facing=west,waterlogged=false":  { "model": "blockmines:block/claymore_mine", "y": 270 },
+    "facing=west,waterlogged=true":   { "model": "blockmines:block/claymore_mine", "y": 270 }
+  }
+}

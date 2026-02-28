@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GNG",
+    "NIN",
+    "GNG"
+  ],
+  "key": {
+    "G": "minecraft:gunpowder",
+    "N": "minecraft:iron_nugget",
+    "I": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "blockmines:claymore_mine",
+    "count": 1
+  }
+}

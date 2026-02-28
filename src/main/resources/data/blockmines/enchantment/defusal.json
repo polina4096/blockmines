@@ -1,0 +1,21 @@
+{
+  "anvil_cost": 4,
+  "description": {
+    "translate": "enchantment.blockmines.defusal"
+  },
+  "effects": {},
+  "max_cost": {
+    "base": 30,
+    "per_level_above_first": 10
+  },
+  "max_level": 5,
+  "min_cost": {
+    "base": 10,
+    "per_level_above_first": 10
+  },
+  "slots": [
+    "mainhand"
+  ],
+  "supported_items": "#blockmines:defusal_enchantable",
+  "weight": 5
+}
